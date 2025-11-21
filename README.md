@@ -25,6 +25,7 @@ python src/reporter.py --files data/sample1.csv data/sample2.csv --report perfor
 #### Запуск тестов
 python -m pytest tests/ -v
 #### Пример вывода:
+<img width="1297" height="264" alt="image" src="https://github.com/user-attachments/assets/5b89abbe-7a6c-43c9-a0dc-88b9079f0735" />
 
 ---
 
